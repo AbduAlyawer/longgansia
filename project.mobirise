@@ -303,12 +303,12 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "4000",
+            "slides__autoplayInterval": "5000",
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/skinless-longganisa-562x402.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -345,7 +345,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/beeeeeef-609x543.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -357,7 +357,7 @@
                 "title": "<b><i><br></i></b><br><br><br><br><br><br><br><br><b><i>Ronquillo's homemade Longganisa\r</i></b><div><br></div>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "for orders please contact:<br>+966 56 728 9021<br>John Ronquillo",
+                "text": "for orders please contact:<br>+966 56 728 9021<br>+966 54 237 5595<br>+966 59 195 6818<br>John Ronquillo",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
